@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-http-4a6b3": {
+      "hosting": {
+        "ng-kanban-board": [
+          "angular-http-4a6b3"
+        ]
+      }
+    }
+  }
+}
